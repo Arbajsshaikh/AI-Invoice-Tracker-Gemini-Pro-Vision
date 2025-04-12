@@ -1,0 +1,6 @@
+streamlit
+google-generativeai#to create LLM model of google
+python-dotenv# to hide my api ky from all of you
+langchain 
+PyPDF2 #to process the pdf
+chromadb # vector database
